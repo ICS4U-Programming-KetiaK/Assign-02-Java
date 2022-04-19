@@ -1,0 +1,4 @@
+The max run of 20002 is 3
+The max run of -1 is 1
+The max run of  is 0
+The max run of BBC is 2
